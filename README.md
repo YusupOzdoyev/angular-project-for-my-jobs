@@ -1,1 +1,3 @@
-# angular-project-for-my-jobs
+# angular-project
+---
+## Тут я знакомлюсь с Angular.
